@@ -1,0 +1,32 @@
+{
+  "name": "netshop",
+  "version": "1.0.0",
+  "description": "单元测试：\r Karma和Jasmine\r 集成测试：\r Protractor，端到端测试，可以打开浏览器模拟用户的输入",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemonYogurt/netshop.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "bower",
+    "gulp",
+    "Karma",
+    "Jasmine",
+    "Protractor"
+  ],
+  "author": "LemonYogurt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LemonYogurt/netshop/issues"
+  },
+  "homepage": "https://github.com/LemonYogurt/netshop#readme"
+}
